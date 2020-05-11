@@ -1,0 +1,2 @@
+# rustafary
+Rust training me
